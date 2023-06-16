@@ -35,7 +35,7 @@ h2 {
 }
 
 .result-container {
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: rgba(130, 102, 255, 0.4);
   display: flex;
   justify-content: flex-start;
   align-items: center;
